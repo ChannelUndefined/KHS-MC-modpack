@@ -57,16 +57,14 @@ Make sure all mods have a check mark next to them, and you're set! All mods have
 # Standard Installation
 Installed Fabric the ordinary way? No problemo again!
 
-You will need to find your mods folder. Make sure you have opened the Fabric install in Minecraft Launcher at least once before doing this.
+Make sure you have opened the Fabric install in Minecraft Launcher at least once before doing this.
 
-- Step 1: Enter Windows file explorer. 
-- Step 2: Navigate to Minecraft's installation path
-
-Minecraft's directory is located as follows: C:/Users/(user)/AppData/Roaming/.minecraft
-
-- Step 3: Open the folder named "mods"
-- Step 4: Select all of the files in the "Modpack" folder you downloaded earlier, and drag them into the "mods" folder.
-- Step 5: Close Windows File Explorer and launch Minecraft
+- Step 1: Press "Win+R"
+- Step 2: type "%appdata%" in the run bar and hit enter
+- Step 3: Open the folder named ".minecraft"
+- Step 4: Open the folder named "mods"
+- Step 5: Select all of the files in the "Modpack" folder you downloaded earlier, and drag them into the "mods" folder.
+- Step 6: Close Windows File Explorer and launch Minecraft
 
 Sucess! All mods have been installed!
   
