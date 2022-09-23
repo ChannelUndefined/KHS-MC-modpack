@@ -62,7 +62,7 @@ You will need to find your mods folder. Make sure you have opened the Fabric ins
 - Step 1: Enter Windows file explorer. 
 - Step 2: Navigate to Minecraft's installation path
 
-Minecraft's directory is located as follows: C:/Users/<user>/AppData/Roaming/.minecraft
+Minecraft's directory is located as follows: C:/Users/(user)/AppData/Roaming/.minecraft
 
 - Step 3: Open the folder named "mods"
 - Step 4: Select all of the files in the "Modpack" folder you downloaded earlier, and drag them into the "mods" folder.
