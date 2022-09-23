@@ -39,3 +39,36 @@ Download the Fabric Installer from this link: https://fabricmc.net/use/installer
 Congrats! Fabric has been installed.
 
 # Installing the Modpack
+Download the custom modpack from this google drive link: https://cringe
+Unzip the file. You should see a folder named "Modpack" full of various files. These are your mods.
+Depending on how you installed Fabric, the methods of installation will vary
+
+# MultiMC Install
+Installed Fabric through MultiMC? No problemo.
+
+- Step 1: Open MultiMC
+- Step 2: Right click on the instance you created before
+- Step 3: Click "Edit Instance"
+- Step 4: Click "Loader mods" in the lefthand column
+- Step 5: Select all of the files in the "Modpack" folder you downloaded earlier, and drag them into the MultiMC window
+
+Make sure all mods have a check mark next to them, and you're set! All mods have been sucessfully installed!
+
+# Standard Installation
+Installed Fabric the ordinary way? No problemo again!
+
+You will need to find your mods folder. Make sure you have opened the Fabric install in Minecraft Launcher at least once before doing this.
+
+- Step 1: Enter Windows file explorer. 
+- Step 2: Navigate to Minecraft's installation path
+Minecraft's directory is located as follows: C:/Users/<user>/AppData/Roaming/.minecraft
+
+- Step 3: Open the folder named "mods"
+- Step 4: Select all of the files in the "Modpack" folder you downloaded earlier, and drag them into the "mods" folder.
+- Step 5: Close Windows File Explorer and launch Minecraft
+
+Sucess! All mods have been installed!
+  
+  
+If you have any difficulty with this, DM me @Dylusion#0629 or message me in the Kalaheo Discord Server. I will be glad to help
+
