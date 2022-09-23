@@ -59,7 +59,7 @@ Installed Fabric the ordinary way? No problemo again!
 
 Make sure you have opened the Fabric install in Minecraft Launcher at least once before doing this.
 
-- Step 1: Press "Win+R"
+- Step 1: Press "Win+R" (Or search "run" in toolbar if that doesn't work)
 - Step 2: type "%appdata%" in the run bar and hit enter
 - Step 3: Open the folder named ".minecraft"
 - Step 4: Open the folder named "mods"
